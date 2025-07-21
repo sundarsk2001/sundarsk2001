@@ -8,5 +8,8 @@ Software Engineer
 - 💬 Ask me about Tech
 
 ### I code in
- <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" /><img height="50" width="50" src="https://img.icons8.com/color/48/000000/spring-logo.png"/>
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" /> 
+<img height="50" width="50" src="https://img.icons8.com/color/48/nextjs.png" alt="Next.js" />
+<img height="50" width="50" src="https://img.icons8.com/color/48/tailwind_css.png" alt="Tailwind CSS" /> 
+<img height="50" width="50" src="https://img.icons8.com/color/48/gsap.png" alt="GSAP" />
  
